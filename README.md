@@ -12,7 +12,7 @@ A/B test results for the introduction of new fonts. Compared 2 control groups, m
 
 Keywords - Product Analyst, Mobile App Analyst, Stat Test, A/B Test, Visualization
 
-# Studying the patterns that determine the success of games
+# Research the patterns that determine the success of games
 
 Areas of activity - Gamedev, Online Stores Marketing Analyst, Product Analyst
 
