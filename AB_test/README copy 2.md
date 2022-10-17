@@ -11,3 +11,7 @@ sales funnel, explored the path of users to purchase, analyzed
 A/B test results for the introduction of new fonts. Compared 2 control groups, made sure that the traffic was divided correctly, and then compared it with the test group. It is revealed that the new font will not significantly affect user behavior.
 
 Keywords - Product Analyst, Mobile App Analyst, Stat Test, A/B Test, Visualization
+
+Status - Finished
+
+Conclusion - With chosen the significance level the control groups and the tested group do not have a statistically significant difference. That is, changing the font does not have a significant impact on the behavior of users of the application.
