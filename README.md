@@ -12,6 +12,8 @@ A/B test results for the introduction of new fonts. Compared 2 control groups, m
 
 Keywords - Product Analyst, Mobile App Analyst, Stat Test, A/B Test, Visualization
 
+Status -Finished
+
 # Research the patterns that determine the success of games
 
 Areas of activity - Gamedev, Online Stores Marketing Analyst, Product Analyst
@@ -29,6 +31,8 @@ the average user ratings for the Action and Sports genres are different. The ana
 
 Keywords - Data Processing, Histogram, Boxplot, Statistical Test, Student Criterion, game analyst, product analyst, gamedev analyst
 
+Status -Finished
+
 # Determination of a favorable tariff for a telecom company
 
 Areas of activity - Telecom Data Analyst, Marketing Analyst, Product Analyst
@@ -44,3 +48,5 @@ data, their analysis. The hypotheses about the difference in the revenue of subs
 difference in revenue of subscribers from Moscow and other regions.
 
 Keywords - Data Processing, Histogram, Boxplot, Statistical Test, T-test Analys, Analyst, Data Analyst
+
+Status -Finished
