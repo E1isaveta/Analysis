@@ -14,3 +14,7 @@ hypotheses: the average user ratings of the Xbox One and PC platforms are the sa
 the average user ratings for the Action and Sports genres are different. The analysis used Student's t-test for independent samples.
 
 Keywords - Data Processing, Histogram, Boxplot, Statistical Test, Student Criterion, game analyst, product analyst, gamedev analyst
+
+Status - Finished
+
+Conclusion - Gaming platforms are developing quite quickly and it makes no sense to build forecasts based on a long period, a couple of years is enough. Based on the data obtained, we can say that there is no universal "product" in the gaming industry. Everything depends on different factors.
